@@ -28,7 +28,7 @@ public class Notice {
     private String nTitle;
     @NotNull
     private String nContent;
-    @NotNull
+
     private LocalDate nDate;
 
     public void changeNTitle(String nTitle) {

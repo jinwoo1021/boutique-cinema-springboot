@@ -1,7 +1,7 @@
 package com.cinema.controller;
 
 import com.cinema.domain.Member;
-import com.cinema.dto.member.MemberDTO;
+//import com.cinema.dto.member.MemberDTO;
 import com.cinema.dto.member.MemberJoinDTO;
 import com.cinema.service.MemberService;
 import lombok.RequiredArgsConstructor;
